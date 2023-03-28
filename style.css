@@ -1,3 +1,7 @@
 body{
-   
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(8,8,106,1) 35%, rgba(199,69,238,1) 100%);
+    color: rgb(251, 250, 250);
+    font-family: 'Times New Roman', Times, serif;
 }
+
